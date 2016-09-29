@@ -1,0 +1,6 @@
+c:\users\bkilkenney\documents\visual studio 2015\Projects\StreamWriterReader\StreamWriterReader\bin\Debug\StreamWriterReader.exe.config
+c:\users\bkilkenney\documents\visual studio 2015\Projects\StreamWriterReader\StreamWriterReader\bin\Debug\StreamWriterReader.exe
+c:\users\bkilkenney\documents\visual studio 2015\Projects\StreamWriterReader\StreamWriterReader\bin\Debug\StreamWriterReader.pdb
+c:\users\bkilkenney\documents\visual studio 2015\Projects\StreamWriterReader\StreamWriterReader\obj\Debug\StreamWriterReader.csprojResolveAssemblyReference.cache
+c:\users\bkilkenney\documents\visual studio 2015\Projects\StreamWriterReader\StreamWriterReader\obj\Debug\StreamWriterReader.exe
+c:\users\bkilkenney\documents\visual studio 2015\Projects\StreamWriterReader\StreamWriterReader\obj\Debug\StreamWriterReader.pdb
